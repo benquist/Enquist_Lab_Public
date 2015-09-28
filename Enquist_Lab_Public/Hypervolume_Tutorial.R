@@ -1,6 +1,6 @@
 ##### ####################################
-##### Enquist Lab Hypervolume tutorial by B.Blonder et al. from 
-##### Hypervolume Tutorial based on http://cran.r-project.org/web/packages/hypervolume/hypervolume.pdf
+##### Enquist Lab Hypervolume tutorial by B.Blonder et al. and modified by B.J. 
+##### Enquist from Hypervolume Tutorial based on http://cran.r-project.org/web     ##### /packages/hypervolume/hypervolume.pdf
 ##### See Blonder et al. 2014 GEB for discussion
 ##########################################
 
